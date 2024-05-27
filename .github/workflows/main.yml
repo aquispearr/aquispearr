@@ -36,12 +36,12 @@ jobs:
       - run: git status
 
       # Push the changes
-      - name: Push changes
-        uses: github-actions-x/commit@v4
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update snake animation"
           branch: master
-          force: true
+          file_pattern: dist/*
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
