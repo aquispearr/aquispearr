@@ -17,7 +17,7 @@
     </ul>
     <h3>Connect with me:</h3>
     <p align="left">
-      <a href="[https://instagram.com/tunado](https://www.instagram.com/raq_dxs/?next=%2Frenian_peru%2Frelated_profiles%2F%3Flocale%3Den-us)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/raq_dxs/?next=%2Frenian_peru%2Frelated_profiles%2F%3Flocale%3Den-us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     </p>
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=aquispearr&label=Profile%20views&color=0e75b6&style=flat" alt="aquispearr" />
